@@ -28,3 +28,6 @@ python jsenc.py
 ```
 jsenc
 ```
+
+## Screenshot 
+![IMG_20221125_004403](https://user-images.githubusercontent.com/85736436/203849658-bd1171d5-49a4-4fbd-9195-30b8d153344a.jpg)
