@@ -1,4 +1,4 @@
-## JS-Encryptor
+# JS-Encryptor
 Marshall encryptor for python script 
 ## Install on Termux :
 ```
