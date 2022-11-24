@@ -5,7 +5,7 @@ Marshall encryptor for python script
 pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
-git clone https://github.com/ShTasrif/SH-Mail
+git clone https://github.com/ShTasrif/JS-Encryptor
 ```
 
 # Run Termux:
