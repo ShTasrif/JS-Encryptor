@@ -1,4 +1,4 @@
-# JS-Encryptor
+## JS-Encryptor
 Marshall encryptor for python script 
 ## Install on Termux :
 ```
@@ -8,13 +8,13 @@ pkg install git -y
 git clone https://github.com/ShTasrif/JS-Encryptor
 ```
 
-# Run Termux:
+## Run Termux:
 ```
 cd JS-Encryptor
 python jsenc.py
 ```
 
-# Install & Run
+## Install & Run
 ```
 pkg update -y && pkg upgrade -y
 pkg install python -y
@@ -24,7 +24,7 @@ cd JS-Encryptor
 python jsenc.py
 ```
 
-# Run Shortly 
+## Run Shortly 
 ```
 jsenc
 ```
